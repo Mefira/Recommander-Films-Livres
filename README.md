@@ -1,4 +1,4 @@
-## Recommander
+# Recommander
 
 Recommander est une application web moderne de recommandation de films et de livres, développée avec React, Redux Toolkit et TypeScript. Elle permet aux utilisateurs de s'inscrire, de se connecter, de gérer leur profil, et d'ajouter, modifier ou supprimer des films et des livres. Le projet est conçu pour être facilement extensible et personnalisable.
 
